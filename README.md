@@ -18,4 +18,20 @@ O projeto também pretende obter inclusão ao inserir pessoas no mercado de trab
 
  <li> Possibilidade para contratação de serviços </li>
    
-## Build
+##  Desenvolvedores
+  <ul>
+    <li>Gabriel Balbino</li>
+    <li>Helen Souza </li>
+    <li>Luis Fernando </li>
+    <li> Priscila Anunciação </li>
+    <li> Vinicius Bavaresco </li>
+  </ul>
+  
+  ## Tecnologias
+  <ul>
+    <li> Angular </li>
+    <li> Css </li>
+    <li> Typescript </li>
+    <li> MySQL </li>
+    <li> Spring Boot </li>
+    <li> Spring Boot </li>
