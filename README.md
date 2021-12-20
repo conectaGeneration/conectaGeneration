@@ -34,4 +34,5 @@ O projeto também pretende obter inclusão ao inserir pessoas no mercado de trab
     <li> Typescript </li>
     <li> MySQL </li>
     <li> Spring Boot </li>
-    <li> Spring Boot </li>
+
+    
