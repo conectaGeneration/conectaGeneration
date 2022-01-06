@@ -24,7 +24,7 @@ O projeto também pretende obter inclusão ao inserir pessoas no mercado de trab
   <li> Vinicius Bavaresco: https://github.com/ViniBavaresco </li>
   </ul>
   
- ## Tecnologias
+ ## Tecnologias: Linguagens e Ferramentas utilizadas 
   <ul>
   <div style="display: inline_block"><br>
   <img align="center" alt="conectaGeneration-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
