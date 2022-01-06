@@ -1,5 +1,5 @@
 # Projeto Conecta
-<img src="https://i.imgur.com/t0P3W9y.png">
+<img src="https://i.imgur.com/mnszt4z.png">
 
 
 ## Nosso foco
