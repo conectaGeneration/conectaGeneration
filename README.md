@@ -1,7 +1,7 @@
 # Rede Social - Conecta
 <img src="https://i.imgur.com/gAhtIlG.png">
 
-## Sobre o Projeto Conecta
+## Sobre o projeto Conecta
 O projeto tem por objetivos gerar valor para que tem um negócio próprio, e para conectar prestadores de serviços com novos clientes.
 Através da rede social Conecta o usuário poderá alcançar o seu público-alvo de maneira eficaz e ampliar o alcance do seu negócio.
 O projeto também pretende obter inclusão ao inserir pessoas no mercado de trabalho,  conectar pessoas, aumentar a rede de clientes e criar oportunidades de parcerias ou contratações.
