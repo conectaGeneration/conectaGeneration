@@ -16,7 +16,7 @@ O projeto também pretende obter inclusão ao inserir pessoas no mercado de trab
 <li> Oportunidades para prestadores de serviços </li>
 <li> Possibilidade para contratação de serviços </li>
    
-##  Desenvolvedores
+##  Time de desenvolvedores
 <ul>
 <li>Gabriel Balbino: https://github.com/Balb1no</li>
 <li>Helen Souza: https://github.com/helensouz </li>
