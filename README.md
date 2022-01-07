@@ -1,4 +1,4 @@
-# Rede Social - Conecta
+# Conecta - rede social
 <img src="https://i.imgur.com/gAhtIlG.png">
 
 ## Sobre o Conecta
@@ -6,7 +6,7 @@ O projeto tem por objetivos gerar valor para que tem um negócio próprio, e par
 Através da rede social Conecta o usuário poderá alcançar o seu público-alvo de maneira eficaz e ampliar o alcance do seu negócio.
 O projeto também pretende obter inclusão ao inserir pessoas no mercado de trabalho,  conectar pessoas, aumentar a rede de clientes e criar oportunidades de parcerias ou contratações.
 
-##Link do Projeto
+## Link do Projeto
 * https://rede-conecta.netlify.app/#/landing-page
 
 ## TEMAS ABORDADOS NA  REDE SOCIAL 
