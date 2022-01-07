@@ -16,7 +16,7 @@ O projeto também pretende obter inclusão ao inserir pessoas no mercado de trab
 <li> Oportunidades para prestadores de serviços </li>
 <li> Possibilidade para contratação de serviços </li>
    
-##  Time de desenvolvedores
+## Desenvolvedores
 <ul>
 <li>Gabriel Balbino: https://github.com/Balb1no</li>
 <li>Helen Souza: https://github.com/helensouz </li>
@@ -25,7 +25,7 @@ O projeto também pretende obter inclusão ao inserir pessoas no mercado de trab
 <li> Vinicius Bavaresco: https://github.com/ViniBavaresco </li>
 </ul>
   
-## Tecnologias: Linguagens e Ferramentas utilizadas 
+## Linguagens e Ferramentas utilizadas 
 <ul>
 <div style="display: inline_block"><br>
 <img align="center" alt="conectaGeneration-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
