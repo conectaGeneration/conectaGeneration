@@ -1,6 +1,9 @@
 # Conecta - rede social
 <img src="https://i.imgur.com/gAhtIlG.png">
 
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=conectaGeneration&repo=conectaGeneration&countColorcountColor)
+
+
 ## Sobre o Conecta
 O projeto tem por objetivos gerar valor para que tem um negócio próprio, e para conectar prestadores de serviços com novos clientes.
 Através da rede social Conecta o usuário poderá alcançar o seu público-alvo de maneira eficaz e ampliar o alcance do seu negócio.
